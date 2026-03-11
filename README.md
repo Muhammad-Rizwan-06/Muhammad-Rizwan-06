@@ -4,7 +4,7 @@
 
 ### Full Stack Developer · MERN & Django · Multan, Pakistan
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/engrmrrizwan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engr.muhammadrizwan@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7c6fff?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
@@ -78,9 +78,9 @@
 
 <div align="center">
 
-![Rizwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true)
+![Rizwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Rizwan-06&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Rizwan-06&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
