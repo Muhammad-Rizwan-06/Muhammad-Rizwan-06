@@ -17,7 +17,7 @@
 - 🎓 Studying **Computer Engineering** at Bahauddin Zakariya University *(CGPA: 3.86 / 4.0)*
 - 💼 Working as a **Full Stack Developer** at **Solution Nex** (Remote)
 - 🛠️ Building real-world apps with **MERN Stack** and **Django**
-- 🌱 Currently deepening my skills in **DevOps ENgineering**
+- 🌱 Currently deepening my skills in **DevOps Engineering**
 - 📫 Reach me at **engr.muhammadrizwan@gmail.com**
 
 ---
