@@ -18,7 +18,7 @@
 - 💼 Working as a **Full Stack Developer** at **Solution Nex** (Remote)
 - 🛠️ Building real-world apps with **MERN Stack** and **Django**
 - 🌱 Currently deepening my skills in **DevOps Engineering**
-- 📫 Reach me at **engr.muhammadrizwan@gmail.com**
+- 📫 Reach me at **engr.muhammadrizwan06@gmail.com**
 
 ---
 
