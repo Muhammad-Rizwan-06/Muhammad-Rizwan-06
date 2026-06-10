@@ -63,7 +63,7 @@
 
 ### 💼 Experience
 
-**Full Stack Developer — DMD Solutions** *(May 2026 – Present · Hybrid)*
+**Full Stack Developer — DMD Solutions** *(May 2026 – Present · Part Time)*
 - Built the complete serverless backend for **Builtrly CRM** (roofing business platform) using AWS Lambda, API Gateway, and DynamoDB
 - Integrated backend with React + Vite frontend and deployed on S3 + CloudFront with custom domain & SSL
 - Authored full API documentation covering all endpoints, schemas, and error codes
