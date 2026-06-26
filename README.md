@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Studying **Computer Engineering** at Bahauddin Zakariya University *(CGPA: 3.86 / 4.0)*
+- 🎓 Studying **Computer Engineering** at Bahauddin Zakariya University *(CGPA: 3.88 / 4.0)*
 - 🛠️ Building production apps with **MERN Stack**, **Django**, and **AWS Serverless**
 - ☁️ Currently working with **Lambda · API Gateway · DynamoDB · S3 · CloudFront**
 - 📫 Reach me at **engr.muhammadrizwan06@gmail.com**
