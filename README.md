@@ -61,23 +61,25 @@
 
 ---
 
-### 💼 Experience
+## 💼 Experience
 
-**Full Stack Developer — DMD Solutions** *(May 2026 – Present · Part Time)*
-- Built the complete serverless backend for **Builtrly CRM** (roofing business platform) using AWS Lambda, API Gateway, and DynamoDB
-- Integrated backend with React + Vite frontend and deployed on S3 + CloudFront with custom domain & SSL
-- Authored full API documentation covering all endpoints, schemas, and error codes
+### Full Stack Developer — DMD Solutions *(May 2026 – Present · Part Time · Onsite)*
+- Architected and developed the serverless backend for **Builtrly CRM**, a roofing business management platform, using AWS Lambda, API Gateway, and DynamoDB with a single-table design.
+- Built and maintained REST APIs for Projects, Contracts, Inspections, Work Orders, Maintenance, Employees, Subcontractors, Invoices, and User Management.
+- Integrated backend services with the React + Vite frontend, resolving API Gateway routing and DynamoDB query issues to ensure reliable end-to-end functionality.
+- Deployed the application on Amazon S3 and CloudFront with a custom domain and ACM wildcard SSL certificate.
+- Authored comprehensive API documentation covering endpoint specifications, authentication, request/response schemas, and error handling.
 
-**Full Stack Developer — Solution Nex** *(Jan 2026 – May 2026 · Hybrid)*
-- Built a scalable tournament management platform with Django — player registration, match processing, automated prize distribution
-- Implemented responsive ERP frontend modules improving operational workflows
+### Full Stack Developer — Solution Nex *(Nov 2025 – May 2026 · Onsite)*
+#### Inventory & Expense Management System | MERN Stack
+- Built a full-stack inventory and expense management system supporting inventory, invoicing, expense tracking, and analytics across multiple outlets.
+- Developed interactive dashboards to monitor sales performance, inventory levels, and business expenses using real-time data aggregation.
+- Streamlined invoice and expense management workflows, improving operational efficiency across multiple shop locations.
 
-**Full Stack Developer Intern — Solution Nex** *(Nov 2025 – Jan 2026 · Onsite)*
-- Built a MERN stack admin system for inventory, invoicing, and expense management across multiple outlets
-- Developed a real-time analytics dashboard for sales, stock, and expenses
-
----
-
+#### Tournament Management System | Django
+- Designed and developed a scalable tournament management platform supporting configurable tournament generation, player registration, and tournament administration.
+- Implemented AI-powered match result processing, automated prize calculation, and prize distribution workflows.
+- Built scalable backend services to manage tournament lifecycles, participants, brackets, and match operations.
 ### 🗂️ Featured Projects
 
 | Project | Tech | Description |
