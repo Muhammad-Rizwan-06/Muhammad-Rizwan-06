@@ -80,12 +80,16 @@
 - Designed and developed a scalable tournament management platform supporting configurable tournament generation, player registration, and tournament administration.
 - Implemented AI-powered match result processing, automated prize calculation, and prize distribution workflows.
 - Built scalable backend services to manage tournament lifecycles, participants, brackets, and match operations.
-### 🗂️ Featured Projects
 
-| Project | Tech | Description |
+---
+
+### 🗂️ Featured Projects
+## 🚀 Projects
+
+| Project | Tech Stack | Description |
 |---|---|---|
-| 🖊️ **Engineers Blog** | MERN, JWT | Full-stack blog with JWT auth, refresh tokens, image upload, and full CRUD |
-| 💰 **Fee Management System** | PHP, MySQL | Admin & student portals for departmental fee tracking and report generation |
+| 💳 **SmartPay FMS – Unified Fee Management System** | MERN, MongoDB, JWT | Configurable fee management system supporting semester and annual academic structures, bulk fee rollovers, real-time financial dashboards using MongoDB aggregation pipelines, JWT authentication, RBAC, and manual challan verification with file uploads. |
+| 🖊️ **Engineers Blog** | MERN, JWT | Full-stack blogging platform featuring JWT access/refresh authentication, protected routes, REST APIs for posts and comments, file uploads, category-based filtering, and a responsive content management interface. |
 
 ---
 
